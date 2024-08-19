@@ -1,1 +1,4 @@
-console.log(5 + 6);
+z = "test";
+
+console.log(z);
+console.log(module.exports);

@@ -6,4 +6,7 @@ function sum(a, b) {
   return a + b;
 }
 
-module.exports = sum;
+// var x = 5;
+
+// module.exports = sum; (This is used to export single )
+module.exports = { sum };
